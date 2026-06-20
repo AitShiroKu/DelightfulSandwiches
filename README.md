@@ -1,13 +1,7 @@
-# Download:
-You can download on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/delightful-sandwiches) and on [Modrinth](https://modrinth.com/mod/delightful-sandwiches), Or Straight From This Page In [Releases](https://github.com/luhcartimods/DelightfulSandwiches/releases)!
+# Neoforge Port
+Delightful Sandwiches Unofficial Port for Minecraft `1.21.1` with Neoforge Loader
 
-# NEW:
-
-A new update has come with a lot to bring. Firstly we have some new Textures!! (see in spoilers) made by never/[goofy_swartz5636773](https://www.curseforge.com/members/goofy_swartz5636773/projects). And I changed the recipe to include the vanilla versions of some cooked meats/fishes. Thats all! Enjoy!
-
-# Versions:
-
-I am planning to backport to other versions, if you want a specific version please comment it!
+Credit to [Official](https://github.com/luhcartimods/DelightfulSandwiches) Repo
 
 # About:
 
