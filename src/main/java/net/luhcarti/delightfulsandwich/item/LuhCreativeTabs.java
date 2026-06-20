@@ -1,12 +1,9 @@
 package net.luhcarti.delightfulsandwich.item;
 
-import net.luhcarti.delightfulsandwich.DelightfulSandwich;
-import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.common.Mod;
+import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import vectorwing.farmersdelight.common.registry.ModCreativeTabs;
 
-@Mod.EventBusSubscriber(modid = DelightfulSandwich.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class LuhCreativeTabs {
     @SubscribeEvent
     public static void addItemsToCreativeTab(BuildCreativeModeTabContentsEvent event) {

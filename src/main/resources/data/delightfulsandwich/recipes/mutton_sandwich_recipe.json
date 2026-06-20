@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:cooked_mutton"
+      "tag": "c:cooked_mutton"
     },
     {
-      "tag": "forge:cooked_mutton"
+      "tag": "c:cooked_mutton"
     },
     {
-      "tag": "forge:bread"
+      "tag": "c:foods/bread"
     }
   ],
   "result": {
