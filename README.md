@@ -9,7 +9,7 @@ Adds New Sandwiches to the farmers delight mod!
 
 # Dependencies:
 
-You will need [Farmers Delight](https://modrinth.com/mod/farmers-delight) and Forge 1.20 to run this mod, and optionally [JEI](https://modrinth.com/mod/jei) !
+You will need [Farmers Delight](https://modrinth.com/mod/farmers-delight) and `NeoForge 1.21.1` to run this mod, and optionally [JEI](https://modrinth.com/mod/jei) !
 
 # Other:
 
